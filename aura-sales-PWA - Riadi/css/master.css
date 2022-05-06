@@ -1,0 +1,175 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/fonts/robotoMono.woff2") format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+* , span{
+    font-family: 'Roboto Mono', monospace !important;
+    font-size: 50px;
+    color:black !important;
+}
+
+.headerTxtCenter {
+    max-width: 25px !important;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px !important;
+}
+
+.gridView1 {
+    margin-top: -100px;
+    border-color: white;
+    margin-top:-400px !important;
+}
+.gridView1 th td span{
+    font-size:50px;
+}
+
+
+#invoiceDetails tr {
+    color: black;
+    background-color: white;
+    border: 0px solid white !important;
+}
+
+.detajetBleresit{
+    margin-top:40px;
+}
+
+.detajetBleresit p {
+    margin-top: -65px;
+    text-align: center;
+}
+
+.fatTxt {
+    text-align: center;
+    margin-top: -70px;
+}
+
+#nrFatPrint{
+    font-size:70px;
+}
+
+.blDetailsPrint{
+    margin-top:-59px;
+}
+
+.gridView1 tbody tr td:nth-child(4){
+    text-align:right;
+    max-width:100px;
+}
+.gridView1 tbody tr td:nth-child(3) {
+    text-align: center;
+}
+
+.controlCol {
+    display: none;
+}
+
+.controlButtons {
+    display: none;
+}
+
+.headerFooterNone {
+    display: none;
+}
+
+.addProdTable, .krijoHeader, .hideFromPrinting {
+    display: none;
+}
+.bleresiDiv {
+    display: none;
+}
+.gridView1 tbody tr:last-child {
+    display: none;
+}
+#rep, .delete, #tblCustomers tr th:nth-child(5) {
+    display: none;
+}
+
+
+
+#tblCustomers{
+    margin-top: -439px;
+
+}
+
+.pagesa{
+    font-size: 65px;
+    font-weight: 500;
+}
+
+.sasia{
+    font-size: 55px;
+    font-weight: 500;    
+}
+
+#tblCustomers {
+    table-layout: fixed;
+    width: 100%;
+}
+
+#tblCustomers tr td{
+    word-wrap: break-word;
+    padding: 3mm;
+    border-top: 3px solid black !important;
+    font-size: 40px;
+
+}
+/* 
+#tblCustomers tbody tr:last-child td{
+    border-bottom: 3px solid black !important;
+} */
+
+#tblCustomers tbody tr td:nth-child(2),
+#tblCustomers tbody tr td:nth-child(3),
+#tblCustomers tbody tr td:nth-child(4){
+    text-align: right;
+}
+
+#tblCustomers tbody tr td:nth-child(1){
+    font-weight: 600;
+}
+
+#tblCustomers td {overflow:hidden;}/*Hide text outside the cell.*/
+#tblCustomers tbody tr td:nth-child(1){width:500px; }
+#tblCustomers tbody tr td:nth-child(2){width:300px; padding-left: 0px;}
+#tblCustomers tbody tr td:nth-child(3){width:350px; padding-left: 0px; padding-right: 0px;}
+#tblCustomers tbody tr td:nth-child(4){width:350px; padding-right: 0px;}
+
+#invoiceDetails tbody tr td:nth-child(2){
+    text-align: right;
+}
+
+#tblCustomers tbody:nth-child(3) tr td:nth-child(5){
+    display: none;
+}
+
+#tblCustomers tbody tr th{
+    font-size: 33px;
+    text-align: center;
+}
+
+#nrFaturesPrint{
+    font-size: 80px;
+}
+#barcode{
+    display: block;
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: -13px;
+}
+
+#barcodeHeader{
+    display: block;
+    font-size: 35px;
+}
+
+
+#tblCustomers > tbody:nth-child(2) > tr > th:nth-child(2){
+    margin-right: 10px;
+}

@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Krijo Fature</title>
+    <meta charset="utf-8" />
+    <link rel="manifest" href="/manifest.json">
+    <script type="text/javascript" src="/js/index.js"></script>
+    <meta name="theme-color" content="#5fbab4"/>
+    <link rel="apple-touch-icon" href="/images/icon-192x192.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/css/master.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="/css/masterOG.css" type="text/css" media="screen" />
+    <!-- <script src="https://kit.fontawesome.com/52609cfd41.js" crossorigin="anonymous"></script> -->
+    <script src="/js/jquery.js"></script>
+    <!-- <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script> -->
+    <!-- <link rel='preconnect' href='https://fonts.googleapis.com' />
+    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin /> -->
+    <!-- <link href='https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap' rel='stylesheet' /> -->
+    <style>
+        
+    </style>
+    <script type="text/javascript">
+
+
+        function printo(){
+            updateNrFat();
+            window.print();
+        }
+
+        // function generatePDF() {
+        //     const element = document.getElementById("test");
+        //     html2pdf().from(element).save();
+        // }
+
+        function selectSasia() {
+            const input = document.getElementById("txtSasiaNew");
+            input.focus();
+            input.select();
+
+        }
+        function selectQmimi() {
+            const input = document.getElementById("txtQmimiNew");
+            input.focus();
+            input.select();
+
+        }
+
+        function selectSasiaEdit() {
+            const input = document.querySelector("input[name$ = 'txtSasia']");
+            input.focus();
+            input.select();
+        }
+
+        function updateVleraJS() {
+            var x = document.getElementById("txtSasiaNew").value;
+            var y = document.getElementById("txtQmimiNew").value;
+            document.getElementById("txtVleraNew").innerHTML = (Math.round((x * y) * 100) / 100).toFixed(2);;
+
+        }
+        function furnitoriInput() {
+
+        }
+        function clearFurnitoriInput() {
+            document.getElementById("browser").value = "";
+            document.getElementById("browser").focus();
+        }
+        function clearNrFatInput() {
+            document.getElementById("nrFatures").value = "";
+            document.getElementById("nrFatures").focus();
+        }
+        function clearArtikulliInput() {
+            document.getElementById("txtArtikulli").value = "";
+            document.getElementById("txtArtikulli").focus();
+        }
+
+        function clickDoc() {
+            document.querySelector(".krijoHeader").click();
+        }
+
+        function printInvoice() {
+            if (document.getElementById("browser").value === "") {
+                return false;
+            }
+            print();
+        }
+
+    </script>
+</head>
+
+<body>
+    <form>
+
+        <br />
+        <div class="container " id="mainDiv">
+            <div class="row">
+                <div class="col detajetBleresit">
+                    <p>LANDI N.T.P</p>
+                    <p>Nui: 811084392</p>
+                    <p>Tvsh: 330259970</p>
+                    <p>Tel: 044/049/279 487</p>
+                    <p>Dardani, Ferizaj</p>
+                    <br />
+                    <p style='text-align: center; margin-bottom: -15px;'>====================================</p>
+                    <br />
+                    <h4 class="fatTxt">Fatura Nr:<label id="nrFaturesPrint"></label></h4>
+                    <br />
+                    <div class="blDetailsPrint">
+                        <p style='text-align: center;'>Data: <span id="dataSot"></span></p>
+                        <p style='text-align: center;'>Bleresi:<span id="bleresi"></span></p>
+                        <p style='text-align: center;'>No Unik Identifikues:<span id="nrUnik"></span></p>
+                        <p style='text-align: center;'>No Fiskal:<span id="nrFiskal"></span></p>
+                        <p style='text-align: center;'>Adresa:<span id="adresa"></span></p>
+                    </div>
+                    <p style='text-align: center; margin-bottom: -20px;'>====================================</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <a class="logo hideFromPrinting"><strong>by inTouchData</strong> </a>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div class="row">
+                <div class="col">
+                    <h4 class="krijoHeader text-white table-header-font" style="font-weight: 600;">Krijo Fature</h4>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div class="row justify-content-center">
+                <div class="col">
+                    <div  class="bleresiDiv">
+                        <table class="tblDetajetEFatures">
+                            <tr>
+                                <td style=" text-align: right;" colspan="1">Nr Fatures: </td>
+                                <td style="padding-top:20px; padding-bottom:20px;   max-width: 175px;" colspan="1"><input type="text"
+                                        onchange="updateNrFat()" onloadeddata="updateNrFat()"  name="nrFatures" style="width: 80%;" id="nrFatures"></td>
+                                <td style="justify-self: center; " ><a onclick="clearNrFatInput()"
+                                    style="font-weight: bolder;     padding: 5px; font-size: 13px;">
+                                    <img style="max-width: 20px; max-height: 20px;" src="/images/remove.png" /></a></td>
+                            </tr>
+                            <tr>
+                                <td class="" style="padding: 4px;text-align: right; font-size: 14px;">Bleresi:</td>
+                                <td style="padding-top: 13px; padding-bottom: 13px;">
+                                    <input list="bleresit"  onchange="updateBleresin()"
+                                        value="Person Fizik" name="browser" id="browser" />
+                                    <datalist id="bleresit">
+                                        <option value='Emri Bleresit' id='id'></option>
+                                    </datalist>
+                                    <script>
+                                        $(document).ready(function () {
+
+                                        });
+                                    </script>
+                                </td>
+                                <td style="justify-self: center">
+                                    <a onclick="clearFurnitoriInput()"
+                                        style="font-weight: bolder; padding: 5px;        font-size: 13px;">
+                                        <img style="max-width: 20px; max-height: 20px;" src="/images/remove.png" /></a>
+                                </td>
+                            </tr>
+                            <tr class="text-center">
+                                <td colspan="6" style="padding:8px;"></td>
+                            </tr>
+                        </table>
+                        <script>
+                                    //const ddBleresi = document.getElementById("browser").value = "Person fizik";
+                        </script>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row justify-content-center">
+                <div class="col">
+
+                    <table class="addProdTable">
+                        <tr>
+
+                            <td style="padding: 6px;  width: 60%; text-align: left;" onclick="selectArtikulli()"><span style="margin-left: 20px;">Artikulli</span><br />
+                                <input style="margin-left: 20px;" name="ddArtikulli" value="" onchange="getPrice()"
+                                    id="txtArtikulli" list="artikujt" />
+                                <datalist id="artikujt">
+                                    <script>
+                                        $(document).ready(function () {
+
+                                        });
+                                    </script>
+                                </datalist>
+                            </td>
+                            <td style="padding: 2px;width: 12%;" onclick="selectSasia()">Sasia<br />
+                                <input style="max-width: 35px;" type="text" name="Sasia" id="txtSasia" value="" />
+                            </td>
+                            <td style="padding: 2px;    width: 14%;" onclick="selectQmimi()">Qmimi<br />
+                                <input style="max-width: 35px;" type="text" name="Qmimi" id="txtQmimi" value="" />
+                            </td>
+                            <td style="justify-self: center; padding-left:5px;text-align: center; width: 10%;"><br />
+                                <a onclick="clearArtikulliInput()" style="font-size: 13px; margin-right: 30px;">
+                                    <img style="max-width: 20px; max-height: 20px;" src="/images/remove.png" /></a>
+                            </td>
+                        </tr>
+                        <style>
+                            .addProdBtn {
+                                min-width: 300px;
+                            }
+                        </style>
+                        <tr>
+
+                            <td colspan="6" style="text-align: center; padding: 6px; padding-bottom: 14px;padding-top: 10px;">
+                                <button style="background-color: #188181;" class="btn btn-info endButtons2 hideFromPrinting" type="button" id="btnAdd">Shto
+                                    rreshtin</button>
+                            </td>
+                        </tr>
+                    </table>
+
+                </div>
+            </div>
+            <br />
+            <br />
+
+            <div class="row justify-content-center" style="padding-left: 15px; padding-right: 15px;">
+                <div class="col colPadding">
+                    <table id="tblCustomers" class="table">
+                        <colgroup>
+                            <col span="1" style="width: 45%;">
+                            <col span="1" style="width: 10%;">
+                            <col span="1" style="width: 15%;">
+                            <col span="1" style="width: 20%;">
+                            <col span="1" style="width: 10%;">
+                         </colgroup>
+                        <tr>
+                            <th>Artikulli</th>
+                            <th>Sasia</th>
+                            <th>Qmimi</th>
+                            <th>Vlera</th>
+                            <th>.</th>
+                        </tr>
+                        <tbody>
+                            <!--<tr>
+                                <td>Rothmans of london blue<span id="barcode">4030600001295</span></td>
+                                <td>2</td>
+                                <td>223.00</td>
+                                <td>49.00</td>
+                                <td><a class="delete" href="JavaScript:void(0);"><img
+                                            style="max-width:20px; max-height:20px;" src="/images/minusWhite.png"></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Rothmans of london blue<span id="barcode">4030600001295</span></td>
+                                <td>2</td>
+                                <td>223.00</td>
+                                <td>494.00</td>
+                                <td><a class="delete" href="JavaScript:void(0);"><img
+                                            style="max-width:20px; max-height:20px;" src="/images/minusWhite.png"></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Rothmans of london blue<span id="barcode">4030600001295</span></td>
+                                <td>2</td>
+                                <td>2.00</td>
+                                <td>4.00</td>
+                                <td><a class="delete" href="JavaScript:void(0);"><img
+                                            style="max-width:20px; max-height:20px;" src="/images/minusWhite.png"></a>
+                                </td>
+                            </tr> -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-12">
+                    <p id="vizats" style='text-align: center; margin-top:-80px;'>--------------------------------</p>
+
+
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <table class="table-striped table-dark table-bordered" id="invoiceDetails"
+                    style="border: 1px solid white; padding: 10px !important; width: 65%;">
+                        <tr>
+                            <td class="sasia">Sasia:</td>
+                            <td class="sasia" id="pakoTxt"></td>
+                        </tr>
+                        <tr>
+                            <td>Vlera pa TVSH:</td>
+                            <td id="paTvshTxt"></td>
+                        </tr>
+                        <tr>
+                            <td>TVSH 18%:</td>
+                            <td id="tvshTxt"></td>
+                        </tr>
+                        <tr>
+                            <td class="pagesa">Pagesa:</td>
+                            <td id="pagesaTxt" class="pagesa"></td>
+        
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            
+
+            <br />
+
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <button type="button" onclick="printo()" style="background-color: #188181;" class="btn btn-info endButtons hideFromPrinting">Printo Faturen</button >
+                    <!-- <button class="btn btn-info endButtons hideFromPrinting" onclick="print()">Printo Faturen</button> -->
+                </div>
+                <div id="text">
+                </div>
+            </div>
+            <br />
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <button type="button" onclick="clearTable()" class="btn btn-dark endButtons hideFromPrinting">Fature e re</button>
+                </div>
+            </div>
+            <div id="dergoiPagoi" >
+                <div class="row justify-content-between">
+                    <div class="col-6">
+                        <h6 style="display: inline">Dergoi:</h6>
+                    </div>
+                    <div class="col-6">
+                        <h6 style="display: inline">Pranoi:</h6>
+                    </div>
+                </div>
+                <div class="row justify-content-between">
+                    <div class="col-6">
+                        <h6 style="display: inline">________</h6>
+                    </div>
+                    <div class="col-6">
+                        <h6 style="display: inline">________</h6>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </form>
+
+    <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> -->
+    <script type="text/javascript" src="/js/table.js"></script>
+    
+</body>
+
+</html>
