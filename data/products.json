@@ -1,526 +1,345 @@
 [{
-        "id": "001",
-        "emri": "Maruse per cigare",
-        "qmimi": "1.5"
-    },
-    {
-        "id": "002",
-        "emri": "Orbit kokerr",
-        "qmimi": "8.5"
-    },
-    {
-        "id": "003",
-        "emri": "Orbit kock",
-        "qmimi": "8.5"
-    },
-    {
-        "id": "056400078603",
-        "emri": "ZMB 3",
-        "qmimi": "2.9"
-    },
-    {
-        "id": "058400127685",
-        "emri": "ZMB 2",
-        "qmimi": "5.8"
-    },
-    {
-        "id": "059200046602",
-        "emri": "ZMB 5",
-        "qmimi": "4.85"
-    },
-    {
-        "id": "12345",
-        "emri": "camel compact",
-        "qmimi": "19"
-    },
-    {
-        "id": "3014260265885",
-        "emri": "Gillette blueII plus",
-        "qmimi": "17"
-    },
-    {
-        "id": "3086120600020",
-        "emri": "Bic I madh shkrepes",
-        "qmimi": "20.5"
-    },
-    {
-        "id": "3086120600051",
-        "emri": "Bic shkrepes e vogel",
-        "qmimi": "17.5"
-    },
-    {
-        "id": "3800221960872",
-        "emri": "King blue recesed",
-        "qmimi": "14.9"
-    },
-    {
-        "id": "3800221964139",
-        "emri": "Korset superslims",
-        "qmimi": "15.9"
-    },
-    {
-        "id": "3800221967260",
-        "emri": "King Red",
-        "qmimi": "14.9"
-    },
-    {
-        "id": "3800221967314",
-        "emri": "King red 100s",
-        "qmimi": "14.9"
-    },
-    {
-        "id": "3800221967321",
-        "emri": "King blue 100s",
-        "qmimi": "14.9"
-    },
-    {
-        "id": "3856008800008",
-        "emri": "Ronhill blue",
-        "qmimi": "16.8"
-    },
-    {
-        "id": "3856008800015",
-        "emri": "Ronhill white",
-        "qmimi": "17.5"
-    },
-    {
-        "id": "3856008800053",
-        "emri": "Ronhill 100 s",
-        "qmimi": "16.9"
-    },
-    {
-        "id": "3856008803214",
-        "emri": "Ronchill I zi",
-        "qmimi": "14"
-    },
-    {
-        "id": "3856008850874",
-        "emri": "Rothmans Clasic Blue 100s",
-        "qmimi": "17.9"
-    },
-    {
-        "id": "3870006000239",
-        "emri": "Opatia red",
-        "qmimi": "14"
-    },
-    {
-        "id": "390064420064",
-        "emri": "Ipko 1 & 5",
-        "qmimi": "5"
-    },
-    {
-        "id": "3903411820267",
-        "emri": "Premium red",
-        "qmimi": "16.7"
-    },
-    {
-        "id": "3903411820274",
-        "emri": "Premium blue",
-        "qmimi": "16.7"
-    },
-    {
-        "id": "3903411820281",
-        "emri": "Fm red",
-        "qmimi": "15.5"
-    },
-    {
-        "id": "400000000000",
-        "emri": "Glamur Azure",
-        "qmimi": "20"
-    },
-    {
-        "id": "4030600001259",
-        "emri": "Davidoff clasik",
-        "qmimi": "27.8"
-    },
-    {
-        "id": "4030600001295",
-        "emri": "Davidoff gold",
-        "qmimi": "27.8"
-    },
-    {
-        "id": "4030600090350",
-        "emri": "Davidoff shape white",
-        "qmimi": "21"
-    },
-    {
-        "id": "4030600090411",
-        "emri": "Davidoff shape black",
-        "qmimi": "21"
-    },
-    {
-        "id": "4030600222874",
-        "emri": "Davidoff reach silver",
-        "qmimi": "18.1"
-    },
-    {
-        "id": "4030600222904",
-        "emri": "Davidoff reach blue",
-        "qmimi": "18.1"
-    },
-    {
-        "id": "4031300102749",
-        "emri": "Kent blue 8",
-        "qmimi": "27.5"
-    },
-    {
-        "id": "4031300102756",
-        "emri": "Kent silver 4",
-        "qmimi": "27.5"
-    },
-    {
-        "id": "4031300107850",
-        "emri": "Rothmans Rich Blue",
-        "qmimi": "15.9"
-    },
-    {
-        "id": "4031300111123",
-        "emri": "Rothmans Clasic Blue",
-        "qmimi": "17.9"
-    },
-    {
-        "id": "4031300132418",
-        "emri": "Lucky strike red soft",
-        "qmimi": "19.9"
-    },
-    {
-        "id": "4031300132425",
-        "emri": "Lucky strike blue soft",
-        "qmimi": "19.9"
-    },
-    {
-        "id": "4031300148204",
-        "emri": " Lucky strike I ri I madh",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "4032900000213",
-        "emri": "Eva slims",
-        "qmimi": "15.1"
-    },
-    {
-        "id": "4032900005829",
-        "emri": "Winston silver me box",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "4033100003493",
-        "emri": "Winston slims blue",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "4033100003516",
-        "emri": "Winston slims silver",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "4033100003561",
-        "emri": "Winston red",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "4033100003608",
-        "emri": "Winston blue",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "4033100013959",
-        "emri": "Winston blue kock I ri",
-        "qmimi": "19.8"
-    },
-    {
-        "id": "4033100076947",
-        "emri": "LD e kuqe",
-        "qmimi": "15.2"
-    },
-    {
-        "id": "4600439917410",
-        "emri": "XS Winston blue",
-        "qmimi": "19.9"
-    },
-    {
-        "id": "4600439917427",
-        "emri": "XS Winston silver",
-        "qmimi": "19.9"
-    },
-    {
-        "id": "52013338854",
-        "emri": "Gjeorgjia",
-        "qmimi": "24"
-    },
-    {
-        "id": "5304000011659",
-        "emri": "West silver",
-        "qmimi": "17.9"
-    },
-    {
-        "id": "5304000011918",
-        "emri": "Malboro gold",
-        "qmimi": "28"
-    },
-    {
-        "id": "5304000011987",
-        "emri": "Malboro red",
-        "qmimi": "28"
-    },
-    {
-        "id": "5304000061005",
-        "emri": "Letra per cigare 10/1",
-        "qmimi": "2.5"
-    },
-    {
-        "id": "5304000061098",
-        "emri": "Filtera grand 200/1",
-        "qmimi": "3.5"
-    },
-    {
-        "id": "5304000180294",
-        "emri": "Malboro taq 6",
-        "qmimi": "23.2"
-    },
-    {
-        "id": "5304000180331",
-        "emri": "Muratti red",
-        "qmimi": "17.2"
-    },
-    {
-        "id": "5304000180355",
-        "emri": "Muratti blue",
-        "qmimi": "17.2"
-    },
-    {
-        "id": "5304000180478",
-        "emri": "Malboro red code 8",
-        "qmimi": "23.2"
-    },
-    {
-        "id": "5304000180492",
-        "emri": "Malboro taq 4",
-        "qmimi": "23.2"
-    },
-    {
-        "id": "5304000180591",
-        "emri": "Chesterfild blue I madh",
-        "qmimi": "18.2"
-    },
-    {
-        "id": "5304000180614",
-        "emri": "Chesterfild red I madh",
-        "qmimi": "18.2"
-    },
-    {
-        "id": "5304000180836",
-        "emri": "Malboro gold soft",
-        "qmimi": "26"
-    },
-    {
-        "id": "5304000180850",
-        "emri": "Malboro red soft",
-        "qmimi": "26"
-    },
-    {
-        "id": "5304000180942",
-        "emri": "Chesterfild blue I vogel",
-        "qmimi": "16.2"
-    },
-    {
-        "id": "5304000180966",
-        "emri": "Chesterfild aqua I vogel",
-        "qmimi": "16.2"
-    },
-    {
-        "id": "5310048000029",
-        "emri": "Filter 57 red",
-        "qmimi": "15"
-    },
-    {
-        "id": "5310048000289",
-        "emri": "Boss clasik",
-        "qmimi": "16.9"
-    },
-    {
-        "id": "5310048001132",
-        "emri": "West red",
-        "qmimi": "17.9"
-    },
-    {
-        "id": "5310048001422",
-        "emri": "Filter 57 blue",
-        "qmimi": "15"
-    },
-    {
-        "id": "5310048001873",
-        "emri": "West red soft",
-        "qmimi": "16"
-    },
-    {
-        "id": "5310048001897",
-        "emri": "West silver soft",
-        "qmimi": "16"
-    },
-    {
-        "id": "5310048002115",
-        "emri": "West deep blue",
-        "qmimi": "16"
-    },
-    {
-        "id": "5319991418165",
-        "emri": "Trokadero blue",
-        "qmimi": "15.6"
-    },
-    {
-        "id": "5700527203216",
-        "emri": "Winston 10t",
-        "qmimi": "21.9"
-    },
-    {
-        "id": "5903141050017",
-        "emri": "Lucky strike I ri kaft",
-        "qmimi": "18.9"
-    },
-    {
-        "id": "5903141075614",
-        "emri": "Lucky strike I ri blue",
-        "qmimi": "18.9"
-    },
-    {
-        "id": "5903141077960",
-        "emri": "Lucky strike capsul wild",
-        "qmimi": "21.9"
-    },
-    {
-        "id": "5903141078288",
-        "emri": "Rothmans D-Series Silver",
-        "qmimi": "15.9"
-    },
-    {
-        "id": "5903141090532",
-        "emri": "Kent cristal blue",
-        "qmimi": "21.9"
-    },
-    {
-        "id": "5903141090556",
-        "emri": "Kent kristal silver",
-        "qmimi": "21.9"
-    },
-    {
-        "id": "59070245",
-        "emri": "Llaki resized wild",
-        "qmimi": "19.9"
-    },
-    {
-        "id": "5942425002403",
-        "emri": "Lucky strike blue 10/1=20",
-        "qmimi": "21.9"
-    },
-    {
-        "id": "5942425002915",
-        "emri": "Dunhill masrer blend",
-        "qmimi": "25"
-    },
-    {
-        "id": "5948530001607",
-        "emri": "Prestigj",
-        "qmimi": "17.9"
-    },
-    {
-        "id": "6943981300049",
-        "emri": "Shkrepsa me drit",
-        "qmimi": "5.5"
-    },
-    {
-        "id": "7612400013554",
-        "emri": "Lucky strike red",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "7612400013578",
-        "emri": "Lucky strike blue",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "7622100845089",
-        "emri": "Philip morris blue",
-        "qmimi": "20"
-    },
-    {
-        "id": "7622100845195",
-        "emri": "Philip morris touch",
-        "qmimi": "16.9"
-    },
-    {
-        "id": "7622100845218",
-        "emri": "Philip Morris blue touch",
-        "qmimi": "19"
-    },
-    {
-        "id": "76401075061",
-        "emri": "Camel",
-        "qmimi": "21.9"
-    },
-    {
-        "id": "815082007539",
-        "emri": "Mond silver",
-        "qmimi": "14.5"
-    },
-    {
-        "id": "815082007546",
-        "emri": "Mond blue",
-        "qmimi": "14.5"
-    },
-    {
-        "id": "9008100206101",
-        "emri": "Slims Karelia",
-        "qmimi": "20.9"
-    },
-    {
-        "id": "9008100284604",
-        "emri": "Ronson",
-        "qmimi": "17.9"
-    },
-    {
-        "id": "Astra",
-        "emri": "Astra",
-        "qmimi": "6"
-    },
-    {
-        "id": "c",
-        "emri": "c",
-        "qmimi": "0.0000"
-    },
-    {
-        "id": "Derbi",
-        "emri": "Derbi",
-        "qmimi": "5"
-    },
-    {
-        "id": "Duhan",
-        "emri": "Duhan",
-        "qmimi": "3"
-    },
-    {
-        "id": "Kese",
-        "emri": "Kese",
-        "qmimi": "3"
-    },
-    {
-        "id": "Mall pa barkod",
-        "emri": "Mall pa barkod",
-        "qmimi": "0.0000"
-    },
-    {
-        "id": "VALA",
-        "emri": "Vala 1",
-        "qmimi": "1"
-    },
-    {
-        "id": "VALA 3",
-        "emri": "Vala 3",
-        "qmimi": "3"
-    },
-    {
-        "id": "VALA 5",
-        "emri": "Vala 5",
-        "qmimi": "5"
-    }
-]
+	"id": "0070330604391",
+	"emri": "SHKREBZ BIC I MADH",
+	"qmimi": "20"
+}, {
+	"id": "03014260419707",
+	"emri": "BIC GILLETE",
+	"qmimi": "15"
+}, {
+	"id": "3086124904315",
+	"emri": "SHKREBZ BIC I VOGEL",
+	"qmimi": "15"
+}, {
+	"id": "380001106872",
+	"emri": "PRESTIGE",
+	"qmimi": "17.9"
+}, {
+	"id": "3800020000397",
+	"emri": "TROKADERO SLIMS BLUE",
+	"qmimi": "15.9"
+}, {
+	"id": "3800162402547",
+	"emri": "TROKADERO   BLUE",
+	"qmimi": "15.9"
+}, {
+	"id": "3800162402813",
+	"emri": "TROKADERO SLIMS PINK",
+	"qmimi": "15.9"
+}, {
+	"id": "3800221960872",
+	"emri": "KING  BLUE",
+	"qmimi": "14.9"
+}, {
+	"id": "3800221967260",
+	"emri": "KING RECESSED RED",
+	"qmimi": "15"
+}, {
+	"id": "3856008800138",
+	"emri": "YORK ME BOX",
+	"qmimi": "15"
+}, {
+	"id": "385600882354",
+	"emri": "OPATIJA",
+	"qmimi": "14"
+}, {
+	"id": "3856008850874",
+	"emri": "ROTHMANS  BLUE 100 S",
+	"qmimi ": "17.9"
+}, {
+	"id": "3856008851000",
+	"emri": "EVA SLIMS",
+	"qmimi": "15.3"
+}, {
+	"id": "3900644200095",
+	"emri": "IPKO 1 EURO",
+	"qmimi": "5"
+}, {
+	"id": "3900644200644",
+	"emri": "IPKO 5 EURO",
+	"qmimi": "5"
+}, {
+	"id": "3903411820274",
+	"emri": "PREMIUM BLUE",
+	"qmimi": "16.9"
+}, {
+	"id": "3903411820281",
+	"emri": "PREMIUM RED",
+	"qmimi": "16.9"
+}, {
+	"id": "4009900397605",
+	"emri": "ORBIT",
+	"qmimi": "8"
+}, {
+	"id": "4030600001295",
+	"emri": "DAVIDOFF GOLD",
+	"qmimi": "27.5"
+}, {
+	"id": "4030600090350",
+	"emri": "DAVIDOFF B&W WHITE",
+	"qmimi": "21"
+}, {
+	"id": "4030600090411",
+	"emri": "DAVIDOFF B&W BLACK",
+	"qmimi": "21"
+}, {
+	"id": "4030600098516",
+	"emri": "WEST RED",
+	"qmimi": "17.9"
+}, {
+	"id": "4030600222881",
+	"emri": "DAVIDOFF REACH SILVER",
+	"qmimi": "18"
+}, {
+	"id": "4030700001126",
+	"emri": "DAVIDOFF CLASSIC",
+	"qmimi": "27.5"
+}, {
+	"id": "4031300102749",
+	"emri": "KENT BLUE",
+	"qmimi": "27.8"
+}, {
+	"id": "4031300102756",
+	"emri": "KENT SILVER",
+	"qmimi": "27.8"
+}, {
+	"id": "4031300107850",
+	"emri": "ROTHMANS OF LONDON BLUE",
+	"qmimi": "17.9"
+}, {
+	"id": "4031300108000",
+	"emri": "ROTHMANS OF LONDON SILVER",
+	"qmimi": "17.9"
+}, {
+	"id": "4031300111123",
+	"emri": "ROTHMANS CLASSIC BLUE",
+	"qmimi": "17.9"
+}, {
+	"id": "4031300132418",
+	"emri": "LUCKY STRIKE RED SOFT",
+	"qmimi": "19.9"
+}, {
+	"id": "4031300132425",
+	"emri": "LUCKY STRIKE BLUE SOFT",
+	"qmimi": "19.9"
+}, {
+	"id": "4031300148204",
+	"emri": "LUCKY SMOOTH SERIES",
+	"qmimi": "20.9"
+}, {
+	"id": "4032900000053",
+	"emri": "CAMEL FILTER",
+	"qmimi": "21.9"
+}, {
+	"id": "4032900001401",
+	"emri": "WINSTON BLUE 10T",
+	"qmimi": "21.9"
+}, {
+	"id": "4032900005829",
+	"emri": "WINSTON SILVER",
+	"qmimi": "20.9"
+}, {
+	"id": "4032900115665",
+	"emri": "CAMEL COMPACT 6MG",
+	"qmimi": "19"
+}, {
+	"id": "4032900115696",
+	"emri": "CAMEL COMPACT 4MG",
+	"qmimi": "19"
+}, {
+	"id": "4033100001598",
+	"emri": "CAMEL BLUE",
+	"qmimi": "219"
+}, {
+	"id": "4033100003493",
+	"emri": "WINSTON SLIMS BLUE",
+	"qmimi": "20.9"
+}, {
+	"id": "4033100003516",
+	"emri": "WINSTON SLIMS SILVER",
+	"qmimi": "20.9"
+}, {
+	"id": "4033100003561",
+	"emri": "WINSTON RED",
+	"qmimi": "20.9"
+}, {
+	"id": "4033100003608",
+	"emri": "WINSTON BLUE",
+	"qmimi": "20.9"
+}, {
+	"id": "4600439917410",
+	"emri": "WINSTON XS BLUE",
+	"qmimi": "19.9"
+}, {
+	"id": "4600439917427",
+	"emri": "WINSTON XS SILVER",
+	"qmimi": "19.9"
+}, {
+	"id": "5201333888524",
+	"emri": "GEORGE KARELIAS",
+	"qmimi": "23.9"
+}, {
+	"id": "5201333888708",
+	"emri": "SLIMS KARELIA",
+	"qmimi": "20.9"
+}, {
+	"id": "5304000011918",
+	"emri": "MARLBORO GOLD",
+	"qmimi": "28.3"
+}, {
+	"id": "5304000011987",
+	"emri": "MARLBORO RED",
+	"qmimi": "28.3"
+}, {
+	"id": "5304000180294",
+	"emri": "MARLBOR TOUCH RCB 6MG",
+	"qmimi": "23.4"
+}, {
+	"id": "5304000180478",
+	"emri": "MARLBORO RED CODE",
+	"qmimi": "23.4"
+}, {
+	"id": "5304000180492",
+	"emri": "MARLBOR TOUCH RCB 4MG",
+	"qmimi": "23.4"
+}, {
+	"id": "5304000180614",
+	"emri": "CHESTERFILD ORIGINAL",
+	"qmimi": "18.2"
+}, {
+	"id": "5304000180836",
+	"emri": "MARLBORO GOLD E BUT",
+	"qmimi": "26.4"
+}, {
+	"id": "5304000180850",
+	"emri": "MARLBORO RED E BUT",
+	"qmimi": "26.4"
+}, {
+	"id": "5304000180942",
+	"emri": "CHESTERFILD BLUE 6MG",
+	"qmimi": "16.3"
+}, {
+	"id": "5310048001125",
+	"emri": "WEST SILVER",
+	"qmimi": "17.9"
+}, {
+	"id": "5310048001873",
+	"emri": "WEST RED SOFT",
+	"qmimi": "16"
+}, {
+	"id": "5310048001897",
+	"emri": "WEST SILVER SOFT",
+	"qmimi": "16"
+}, {
+	"id": "5310048002115",
+	"emri": "WEST DEEP BLUE",
+	"qmimi": "16"
+}, {
+	"id": "5903141050017",
+	"emri": "LUCKY STRIKE DS AMBER 6MG",
+	"qmimi": "18.9"
+}, {
+	"id": "5903141075614",
+	"emri": "LUCKY STRIKE DS AMBER 4MG",
+	"qmimi": "18.9"
+}, {
+	"id": "5903141077960",
+	"emri": "LUCKY STRIKE CAPSULES",
+	"qmimi": "21.9"
+}, {
+	"id": "5903141078264",
+	"emri": "ROTHMANS DS BLUE",
+	"qmimi": "15.9"
+}, {
+	"id": "5903141078288",
+	"emri": "ROTHMANS DS SILVER",
+	"qmimi": "15.9"
+}, {
+	"id": "5903141085422",
+	"emri": "LUCKY STRIKE WILL DEMI SLIM",
+	"qmimi": "19.9"
+}, {
+	"id": "5903141090532",
+	"emri": "KENT DEMI CRYSTAL 6MG",
+	"qmimi": "21.9"
+}, {
+	"id": "5903141090556",
+	"emri": "KENT DEMI CRYSTAL 4MG",
+	"qmimi": "21.9"
+}, {
+	"id": "5998900411604",
+	"emri": "LUCKY STRIKE BLUE 10T",
+	"qmimi": "21.9"
+}, {
+	"id": "6843481905822",
+	"emri": "SHKREBZ ME DRIT",
+	"qmimi": "6"
+}, {
+	"id": "7612400013554",
+	"emri": "LUCKY STRIKE RED",
+	"qmimi": "20.9"
+}, {
+	"id": "7612400013578",
+	"emri": "LUCKY STRIKE BLUE",
+	"qmimi": "20.9"
+}, {
+	"id": "7622100845089",
+	"emri": "PHILIP MORRIS SUPREME BLUE",
+	"qmimi": "20"
+}, {
+	"id": "7622100845119",
+	"emri": "PHILIP MORRIS BLACK LEGEND",
+	"qmimi": "19"
+}, {
+	"id": "7622100845195",
+	"emri": "PHILIP MORRIS TOUCH 4",
+	"qmimi": "19"
+}, {
+	"id": "815082007539",
+	"emri": "MOND HIRI",
+	"qmimi": "13.5"
+}, {
+	"id": "815082007546",
+	"emri": "MOND BLUE",
+	"qmimi": "13.5"
+}, {
+	"id": "9008100284604",
+	"emri": "RONSON",
+	"qmimi": "18"
+}, {
+	"id": "MALL PA BARKOD",
+	"emri": "MALL PA BARKOD",
+	"qmimi": "0.0000"
+}, {
+	"id": "VALA 1 EURO",
+	"emri": "VALA 1 EURO",
+	"qmimi": "1"
+}, {
+	"id": "VALA 5 EURO",
+	"emri": "VALA 5 EURO",
+	"qmimi": "5"
+}, {
+	"id": "5304000180966",
+	"emri": "CHESTERFIELD AQUA 4MG",
+	"qmimi": "16.3"
+}, {
+	"id": "1",
+	"emri": "MALL PA BARKOD",
+	"qmimi": "0.0000"
+}, {
+	"id": "2",
+	"emri": "CREMOZ COFFE",
+	"qmimi": "9"
+}, {
+	"id": "3",
+	"emri": "NES CAFFE",
+	"qmimi": "4"
+}, {
+	"id": "02",
+	"emri": "KREMOZ  QAJ",
+	"qmimi": "9"
+}, {
+	"id": "01",
+	"emri": "FILTER  GRAND",
+	"qmimi": "3.5"
+}]
