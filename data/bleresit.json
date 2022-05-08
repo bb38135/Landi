@@ -1,351 +1,226 @@
 [{
+	"id": "300015",
+	"emri": "BUQAJ  sh.p.k.",
+	"adresa": "Zona Industriale pn PRISHTINE",
+	"fiskali": "70225477"
+}, {
+	"id": "300016",
+	"emri": "PRIMA TOBACCO L.LC",
+	"adresa": "Magjis. Prishtine-F.Kosove",
+	"fiskali": "70242343"
+}, {
+	"id": "300017",
+	"emri": "ELDA ARD NTSH",
+	"adresa": "PRISHTINE",
+	"fiskali": ""
+}, {
+	"id": "300018",
+	"emri": "RAKITA NTP",
+	"adresa": "FERIZAJ",
+	"fiskali": "80009364"
+}, {
+	"id": "300019",
+	"emri": "GLLAREVA NTP",
+	"adresa": "Gllareve - Kline",
+	"fiskali": "80002432"
+}, {
+	"id": "300020",
+	"emri": "NEW PRINC",
+	"adresa": "Kosta Novakoviq-PRISHTINE",
+	"fiskali": ""
+}, {
+	"id": "300025",
+	"emri": "TOBAKOS shpk",
+	"adresa": "rr.Ismail Qemali- Peje",
+	"fiskali": "70409034"
+}, {
+	"id": "300026",
+	"emri": "TROKADERO sh.p.k.",
+	"adresa": "rr.Lidhja e Lezhes 25-PRISHTINE",
+	"fiskali": ""
+}, {
+	"id": "300027",
+	"emri": "DAUTI KOMERC-FERIZAJ",
+	"adresa": "Magj. Ferizaj-Kaqanik",
+	"fiskali": "70130379"
+}, {
+	"id": "300028",
+	"emri": "INEX-S1 SHPK",
+	"adresa": "rr.Jeta re pn PRIZREN",
+	"fiskali": "70642298"
+}, {
+	"id": "300029",
+	"emri": "NEXT L.L.C.",
+	"adresa": "Zona Industriale-Prishtine",
+	"fiskali": "600018297"
+}, {
+	"id": "300030",
+	"emri": "Bartjet e st.nga 2015",
+	"adresa": "",
+	"fiskali": ""
+}, {
+	"id": "300031",
+	"emri": "LIRI NTP",
+	"adresa": "Prizeren",
+	"fiskali": "600385654"
+}, {
+	"id": "300032",
+	"emri": "AFRI TRADE NTP",
+	"adresa": "PRIZREN",
+	"fiskali": "600017637"
+}, {
+	"id": "300033",
+	"emri": "EUROFOOD",
+	"adresa": "Turgut Ozal pn Prizren",
+	"fiskali": "600022339"
+}, {
+	"id": "300034",
+	"emri": "ALTERNATIVA N.T.P.",
+	"adresa": "Dumosh Podujeve",
+	"fiskali": "600928529"
+}, {
+	"id": "300035",
+	"emri": "FM Holding group",
+	"adresa": "rr Lidhja e Lezhes nr 25A",
+	"fiskali": "601231905"
+}, {
+	"id": "300036",
+	"emri": "Conkordija",
+	"adresa": "Tregu me shumic Fushe  Kosove",
+	"fiskali": "600266044"
+}, {
+	"id": "300037",
+	"emri": "Bartjet e st.nga 2016",
+	"adresa": "",
+	"fiskali": ""
+}, {
+	"id": "300038",
+	"emri": "CALABRIA  sh.p.k",
+	"adresa": "rr.Lidhja e Prizerenit pn Gjilan",
+	"fiskali": "600081616"
+}, {
+	"id": "300039",
+	"emri": "Bartja estoqeve 2017",
+	"adresa": "",
+	"fiskali": ""
+}, {
+	"id": "300041",
+	"emri": "Albapetrol oli",
+	"adresa": "viti-gjilan",
+	"fiskali": ""
+}, {
+	"id": "600001",
+	"emri": "D.P.T.RILINDJA-V",
+	"adresa": "VITI",
+	"fiskali": "811096876"
+}, {
 	"id": "600002",
 	"emri": "Person fizik",
 	"adresa": "",
 	"fiskali": ""
 }, {
 	"id": "600003",
-	"emri": "AGRO MARKET",
-	"adresa": "Sadovin e Jerlive -VITI",
-	"fiskali": "600147616"
+	"emri": "BESJANI COM N.T.P",
+	"adresa": "VITI",
+	"fiskali": "810671489"
 }, {
 	"id": "600004",
-	"emri": "MARKET DARDANIA ntp",
-	"adresa": "Dardani -FERIZAJ",
-	"fiskali": "600903216"
+	"emri": "EBI N.T.SH",
+	"adresa": "VITI",
+	"fiskali": "810672841"
 }, {
 	"id": "600005",
-	"emri": "DARDANIA CENTER shpk",
-	"adresa": "Dardani - FERIZAJ",
-	"fiskali": "600880042"
+	"emri": "SABRI JAHIU B.I",
+	"adresa": "FERIZAJ DARDANI",
+	"fiskali": "810182791"
 }, {
 	"id": "600006",
-	"emri": "BASHKIMI npt",
-	"adresa": "Sllatine e eperme-VITI",
-	"fiskali": "810672536"
+	"emri": "EGZONI -N.T.P",
+	"adresa": "MANASTIRC-FERIZAJ",
+	"fiskali": "601233563"
 }, {
 	"id": "600007",
-	"emri": "FATLINDI ntp",
-	"adresa": "Budrike e eperme -VITI",
-	"fiskali": "600146080"
+	"emri": "FITORE -MARKET -N-T-P",
+	"adresa": "VITI",
+	"fiskali": "600339627"
 }, {
 	"id": "600008",
-	"emri": "TINA PETROL",
-	"adresa": "Kllokot",
-	"fiskali": "600220967"
+	"emri": "VALI MARKET SH.P.K",
+	"adresa": "KLLOKOT VITI",
+	"fiskali": "810048703"
 }, {
 	"id": "600009",
-	"emri": "RIFAJ ntp",
-	"adresa": "Begrac - KAQANIK",
-	"fiskali": "600345822"
+	"emri": "REXHEP PAJAZITI-B.I",
+	"adresa": "VITI",
+	"fiskali": "601560552"
 }, {
 	"id": "600010",
-	"emri": "ALBAKOS shpk",
-	"adresa": "Terpeze- Viti",
-	"fiskali": "600066238"
+	"emri": "VERONA -N-T-P",
+	"adresa": "POZHORAN -VITI",
+	"fiskali": "6001197397"
 }, {
 	"id": "600011",
-	"emri": "TE LORIKU dpt",
-	"adresa": "Sllatine e ulet - Viti",
-	"fiskali": "600169149"
+	"emri": "BANI-COMERC-N.T.P",
+	"adresa": "POZHORAN VITI",
+	"fiskali": "600177381"
 }, {
 	"id": "600012",
-	"emri": "BESNIKU ntp",
-	"adresa": "Sllatine e eperme - VITI",
-	"fiskali": "600223416"
+	"emri": "ENDRITI N.T.P",
+	"adresa": "VITI",
+	"fiskali": "600145610"
 }, {
 	"id": "600013",
-	"emri": "BARDHI shpt",
-	"adresa": "Sadovin e Qerkezve - VITI",
-	"fiskali": "600163224"
+	"emri": "REAL CENTER N.T.P",
+	"adresa": "VITI",
+	"fiskali": "810678849"
 }, {
 	"id": "600014",
-	"emri": "BLEFOBLERI ntp",
-	"adresa": "Gurez - FERIZAJ",
-	"fiskali": "600059069"
+	"emri": "RUXHEER N.T.P",
+	"adresa": "MANASTIRC FERIZAJ",
+	"fiskali": "810654253"
 }, {
 	"id": "600015",
-	"emri": "MILOSH ntp",
-	"adresa": "Verbovc - VITI",
-	"fiskali": "600893293"
+	"emri": "MENDI COMERC .N.T",
+	"adresa": "VITI",
+	"fiskali": "600262258"
 }, {
 	"id": "600016",
-	"emri": "MEDA 92 ntp",
-	"adresa": "Budrike e eperme - VITI",
-	"fiskali": "600279336"
+	"emri": "QAZA KOM N.T.P.H",
+	"adresa": "SMIR VITI",
+	"fiskali": "810675506"
 }, {
 	"id": "600017",
-	"emri": "TERPEZA ntp",
-	"adresa": "Terpeze - VITI",
-	"fiskali": "600327086"
+	"emri": "ROMANTIKA-NTP",
+	"adresa": "VITI",
+	"fiskali": "810671570"
 }, {
 	"id": "600018",
-	"emri": "ARGJENDI ntp",
-	"adresa": "Terpeze - VITI",
-	"fiskali": "600167309"
+	"emri": "BLENDI-NTP",
+	"adresa": "FERIZAJ",
+	"fiskali": "811062455"
 }, {
 	"id": "600019",
-	"emri": "MENDI shtp",
-	"adresa": "Sllatine e ulet - VITI",
-	"fiskali": "600224208"
+	"emri": "TE-AKULLORJA-DPT",
+	"adresa": "FERIZAJ",
+	"fiskali": "810638025"
 }, {
 	"id": "600020",
-	"emri": "MARKET TINA",
-	"adresa": "Sllatine e eperme - VITI",
-	"fiskali": "600967410"
+	"emri": "RIZA-NTP",
+	"adresa": "FERIZAJ",
+	"fiskali": "600046884"
 }, {
 	"id": "600021",
-	"emri": "AGRO DARDANIA ntp",
-	"adresa": "Dardani - Ferizaj",
-	"fiskali": "600752168"
+	"emri": "YLLI-DPT",
+	"adresa": "SOJEV- FERIZAJ",
+	"fiskali": "811071844"
 }, {
 	"id": "600022",
-	"emri": "YLLI-CCOM",
-	"adresa": "Verban-VITI",
-	"fiskali": "600719275"
+	"emri": "ENI N.P.T.",
+	"adresa": "GAQKE  FERIZAJ",
+	"fiskali": "600144547"
 }, {
 	"id": "600023",
-	"emri": "BULI MARKET",
-	"adresa": "Ramjan-VITI",
-	"fiskali": "600170386"
-}, {
-	"id": "600024",
-	"emri": "JETA MARKET",
-	"adresa": "Sllatin e eperme-Viti",
-	"fiskali": "601053086"
-}, {
-	"id": "600025",
-	"emri": "FLORIMI ntp",
-	"adresa": "Fshati I Ri",
-	"fiskali": "600502290"
-}, {
-	"id": "600026",
-	"emri": "ADA GAS  shpk",
-	"adresa": "Fsh. Gurez - Ferizaj",
-	"fiskali": "600032180"
-}, {
-	"id": "600027",
-	"emri": "test",
-	"adresa": "",
-	"fiskali": ""
-}, {
-	"id": "600028",
-	"emri": "DRILONI MARKET PLUS",
-	"adresa": "Pozheran",
-	"fiskali": "811369645"
-}, {
-	"id": "600029",
-	"emri": "BESJANI NTP",
-	"adresa": "Sllatine e eperme",
-	"fiskali": "600344098"
-}, {
-	"id": "600030",
-	"emri": "LABI Sh.p.k.",
-	"adresa": "Dardani-Ferizaj",
-	"fiskali": "601659694"
-}, {
-	"id": "600031",
-	"emri": "BANI COMERCE NTP",
-	"adresa": "Pozheran - Viti",
-	"fiskali": "600177382"
-}, {
-	"id": "600032",
-	"emri": "DPT YLLI",
-	"adresa": "Rahovic - Ferizaj",
-	"fiskali": "600994752"
-}, {
-	"id": "600033",
-	"emri": "SHPEJTI NTP",
-	"adresa": "POZHERAN",
-	"fiskali": "600283676"
-}, {
-	"id": "600034",
-	"emri": "BAJRA COMM",
-	"adresa": "Verban-Viti",
-	"fiskali": ""
-}, {
-	"id": "600035",
-	"emri": "MENTORI",
-	"adresa": "Kllokot",
-	"fiskali": ""
-}, {
-	"id": "600036",
-	"emri": "DONI D.P.T",
-	"adresa": "Komogllav-Ferizaj",
-	"fiskali": "810669749"
-}, {
-	"id": "600037",
-	"emri": "XHEVAHIRI",
-	"adresa": "Verban - Viti",
-	"fiskali": ""
-}, {
-	"id": "600038",
-	"emri": "DRITA COM NPT",
-	"adresa": "Drobesh-Viti",
-	"fiskali": ""
-}, {
-	"id": "600039",
-	"emri": "JETON N.BERISHA B.I..",
-	"adresa": "Mirosal - Ferizaj",
-	"fiskali": "810058893"
-}, {
-	"id": "600040",
-	"emri": "Burim E Haziri",
-	"adresa": "Verban-Viti",
-	"fiskali": "811401827"
-}, {
-	"id": "600041",
-	"emri": "LEONI-A SH.P.K.",
-	"adresa": "Softaj-Ferizaj",
-	"fiskali": "810049454"
-}, {
-	"id": "600042",
-	"emri": "LABI SH.P.K.",
-	"adresa": "Dardani-Ferizaj",
-	"fiskali": "601659694"
-}, {
-	"id": "600043",
-	"emri": "MENDI shtp",
-	"adresa": "Sllatine e ulet - Viti",
-	"fiskali": "600224208"
-}, {
-	"id": "600044",
-	"emri": "ARGJENDI ntp",
-	"adresa": "Terpez-Viti",
-	"fiskali": "600167309"
-}, {
-	"id": "600045",
-	"emri": "MILLOSH NTP",
-	"adresa": "Verbovc-Kllokot",
-	"fiskali": "600893293"
-}, {
-	"id": "600046",
-	"emri": "BARDHI shpt",
-	"adresa": "Sadovin e Qerkezve -Viti",
-	"fiskali": "600163224"
-}, {
-	"id": "600047",
-	"emri": "BESNIKU NTP",
-	"adresa": "Sllatine e Eperme - Viti",
-	"fiskali": "600223416"
-}, {
-	"id": "600048",
-	"emri": "TE LORIKU DPT",
-	"adresa": "Sllatine e ulet -Viti",
-	"fiskali": "600169149"
-}, {
-	"id": "600049",
-	"emri": "BESIANA NTP",
-	"adresa": "Pojat - Frrizaj",
-	"fiskali": "6000122618"
-}, {
-	"id": "600050",
-	"emri": "FERAT BAJRAKTARI B.I.",
-	"adresa": "Talinoc I Muhagjerve",
-	"fiskali": "811078212"
-}, {
-	"id": "600051",
-	"emri": "BIMA PETROL",
-	"adresa": "Rahovic-Ferizaj",
-	"fiskali": "810131558"
-}, {
-	"id": "600052",
-	"emri": "LEONI-A SH.P.K.",
-	"adresa": "Softaj-Ferizaj",
-	"fiskali": "810049454"
-}, {
-	"id": "600053",
-	"emri": "LEKA MARKET",
-	"adresa": "",
-	"fiskali": "811319525"
-}, {
-	"id": "600054",
-	"emri": "AKLIME LUME B.I.",
-	"adresa": "",
-	"fiskali": "811087718"
-}, {
-	"id": "600055",
-	"emri": "PIZZERIA TONI",
-	"adresa": "Ferizaj",
-	"fiskali": "600930706"
-}, {
-	"id": "600056",
-	"emri": "ALBA PETROL OIL",
-	"adresa": "Viti-Gjilam",
-	"fiskali": "811428154"
-}, {
-	"id": "600057",
-	"emri": "TRIMI PETROL",
-	"adresa": "Dardani-Ferizaj",
-	"fiskali": "810642141"
-}, {
-	"id": "600058",
-	"emri": "KEMA NSHT",
-	"adresa": "SOJEV-FERIZAJ",
-	"fiskali": "810639742"
-}, {
-	"id": "600059",
-	"emri": "ERENIKU D.P.T",
-	"adresa": "",
-	"fiskali": "600297362"
-}, {
-	"id": "600060",
-	"emri": "MAKI MARKET",
-	"adresa": "Verbovc-Viti",
-	"fiskali": "600317657"
-}, {
-	"id": "600061",
-	"emri": "BESARTI NTP",
-	"adresa": "Skifteraj-Viti",
-	"fiskali": ""
-}, {
-	"id": "600062",
-	"emri": "RINORI SH.P.T.",
-	"adresa": "Remnik-Viti",
-	"fiskali": ""
-}, {
-	"id": "600063",
-	"emri": "FATMIR BRAHIMI B.I",
-	"adresa": "FERIZAJ",
-	"fiskali": "811091644"
-}, {
-	"id": "600064",
-	"emri": "KUSHTRIMI NTP",
-	"adresa": "Skifteraj-Viti",
-	"fiskali": ""
-}, {
-	"id": "600065",
-	"emri": "MANI PETROL",
-	"adresa": "Komogllav-Ferizaj",
-	"fiskali": ""
-}, {
-	"id": "600066",
-	"emri": "GAFA kom Market",
-	"adresa": "Komogllav- Ferizaj",
-	"fiskali": ""
-}, {
-	"id": "600067",
-	"emri": "MALTA",
-	"adresa": "Sllatine e eperme-Viti",
-	"fiskali": ""
-}, {
-	"id": "600068",
-	"emri": "ALDI MARKET SH.P.K.",
-	"adresa": "KLLOKOT",
-	"fiskali": ""
-}, {
-	"id": "600069",
-	"emri": "BANJA E KLLOKOTIT",
-	"adresa": "KLLOKOT",
-	"fiskali": ""
-}, {
-	"id": "600070",
-	"emri": "Avdi N.Misini b.i.",
-	"adresa": "Germov--Viti",
-	"fiskali": ""
-}, {
-	"id": "600071",
-	"emri": "AN STORE",
-	"adresa": "Begrac-Ferizaj",
-	"fiskali": ""
+	"emri": "D.P.T.DRINI - D ",
+	"adresa": "SOJEVE  FERIZAJ",
+	"fiskali": "810652249"
 }]
